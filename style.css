@@ -10,9 +10,14 @@ hr {
   margin: 2rem 0rem;
 }
 
+article {
+  text-align: center;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0px;
+  text-align: center;
 }
 
 .container {
@@ -70,6 +75,7 @@ body {
 
 .nav-brand {
   font-weight: bold;
+  text-align: left;
 }
 
 .link-active {
@@ -120,6 +126,7 @@ footer {
   padding: 1rem 1rem;
   text-align: center;
   border-bottom-right-radius: 1rem;
+  margin: 2rem 0rem 0rem 0rem;
 }
 
 footer a {
